@@ -19,7 +19,7 @@ inquirer
         {
             type: 'input',
             name: 'installation',
-            message: 'Provide Installation Instructions for your Project.'
+            message: 'Provide Installation Instructions for your Project.',
         },
         {
             type: 'input',
