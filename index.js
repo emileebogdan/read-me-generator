@@ -31,6 +31,10 @@ inquirer
             name: 'contributing',
             message: 'How can people contribute to your project?',
         },
+        { type: 'input',
+        name: 'test',
+        message: 'Provide testing instructions.',
+        },
         {
             type: 'list',
             name: 'license',
